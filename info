@@ -65,3 +65,15 @@ https://github.com/github/gitignore
 unity call another scene script method
 https://answers.unity.com/questions/36135/how-to-call-a-function-from-a-script-in-another-sc.html
 
+
+//
+- handle reloading ad like interstial ad
+if (interstitial != null)
+			interstitial.Destroy ();
+		MakeNewInterstial ();
+
+
+- create reward ad as below url example
+
+https://github.com/googleads/googleads-mobile-unity/blob/master/samples/HelloWorld/Assets/Scripts/GoogleMobileAdsDemoScript.cs
+//
