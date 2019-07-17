@@ -76,4 +76,6 @@ if (interstitial != null)
 - create reward ad as below url example
 
 https://github.com/googleads/googleads-mobile-unity/blob/master/samples/HelloWorld/Assets/Scripts/GoogleMobileAdsDemoScript.cs
+
+- check if it is sdk related issue, try loading reward ad 3,4 time from where it working
 //
