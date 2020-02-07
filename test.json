@@ -9,7 +9,8 @@
       "app_cta_text": "Install",
       "app_price": "Free",
       "app_adType": "dialog"
-    }{
+    },
+    {
       "app_title": "TexWalls!",
       "app_desc": "A Simple App to create Simplistic Text Based Wallpapers!",
       "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
@@ -18,7 +19,6 @@
       "app_cta_text": "Install",
       "app_price": "Free",
       "app_adType": "dialog"
-    },
-    
+    }
   ]
 }
