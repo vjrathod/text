@@ -1,1 +1,15 @@
-{"foo": "bar"}
+{
+  "apps": [
+    {
+      "app_title": "Video Editor & Video Maker For Free - VShot",
+      "app_desc": "Video Editor & Video Maker For Free - VShot is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark.
+",
+      "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c=s200-rw",
+      "app_uri": "com.vshot.video.editor",
+      "app_rating": "4.7",
+      "app_cta_text": "Install",
+      "app_price": "Free",
+      "app_adType": "dialog"
+    }
+  ]
+}
