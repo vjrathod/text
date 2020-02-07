@@ -2,14 +2,23 @@
   "apps": [
     {
       "app_title": "Video Editor & Video Maker For Free - VShot",
-      "app_desc": "Video Editor & Video Maker For Free - VShot is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark.
-",
+      "app_desc": "Video Editor & Video Maker For Free - VShot is a completely free application. There's no watermark on any output video or any time limit, you can export your edited video into HD quality without any watermark. ",
       "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c=s200-rw",
       "app_uri": "com.vshot.video.editor",
       "app_rating": "4.7",
       "app_cta_text": "Install",
       "app_price": "Free",
       "app_adType": "dialog"
-    }
+    }{
+      "app_title": "TexWalls!",
+      "app_desc": "A Simple App to create Simplistic Text Based Wallpapers!",
+      "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
+      "app_header_image": "https://lz-houseads.firebaseapp.com/houseAds/imgs/texwalls_banner.png",
+      "app_uri": "com.lazygeniouz.tex",
+      "app_cta_text": "Install",
+      "app_price": "Free",
+      "app_adType": "dialog"
+    },
+    
   ]
 }
